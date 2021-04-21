@@ -1,6 +1,6 @@
 +++
-title = "Metadata"
-description = "Tracking and managing metadata of machine learning workflows in Kubeflow"
+title = "Metadata (Unsupported)"
+description = "Tracking and managing metadata of machine learning workflows in Kubeflow. Currently unsupported."
 weight = 20
 +++
 
